@@ -1,5 +1,5 @@
 
-<img src="docs/source/_static/icon.png" alt="SCORE logo" width="128"/>
+<img src="docs/source/_static/FIN.png" alt="FIN result" width="128"/>
 
 # ***SCORE***: Single-cell Chromatin Organization Representation and Embedding
 
