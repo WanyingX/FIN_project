@@ -4,6 +4,8 @@
 # ***FIN***: Functional insulators ctively block enhancer-promoter interactions and control gene expression.
 
 
-## Landscape of my story
+# How FIN looks like and the way we discover them?
+<img src="docs/source/_static/Example%20of%20FIN.png" alt="FIN result" width="896"/>
+
 
 
