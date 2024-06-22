@@ -1,7 +1,7 @@
 
 <img src="docs/source/_static/FIN.png" alt="FIN result" width="896"/>
 
-# ***FIN***: Functional insulators ctively block enhancer-promoter interactions and control gene expression.
+# ***FIN***: Functional insulator actively blocks enhancer-promoter interactions and control gene expression.
 
 
 ### How does FIN looks like and how do we map them? 
