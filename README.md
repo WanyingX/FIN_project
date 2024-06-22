@@ -16,7 +16,7 @@ In total, we identified ~300 FIN occurrent regions in mESCs by using cross-HiC p
 We deciphered 103 genes which are governed by FIN. 
 <img src="docs/source/_static/result2.png" alt="FIN result2" width="896"/>
 
-### Multiplexed dCas9-based CTCF displacement assay is used to validate molecular function of FINs.
+### Multiplexed dCas9-based CTCF displacement assay helps to validate molecular function of FINs.
 By using dCas9-based CTCF displacement approach, we validated a few FINs, its insulation function and gene regulation function.
 <img src="docs/source/_static/result3.png" alt="FIN result3" width="896"/>
 
